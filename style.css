@@ -1,0 +1,43 @@
+:root{
+    --purple100:hsl(254, 88%, 90%);
+    --purple500:hsl(256, 67%, 59%);
+    --yellow100:hsl(31, 66%, 93%);
+    --yellow500:hsl(39, 100%, 71%);
+    --white:hsl(0, 0%, 100%);
+    --black:hsl(0, 0%, 7%);
+}
+
+
+*{
+    font-size: 18px;
+    font-family: "DM Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+.card{
+    background-color: var(--purple500);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }
